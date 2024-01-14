@@ -1,5 +1,7 @@
-import Image from 'next/image'
-
 export default function Home() {
-  return <p>Hello World</p>
+  return (
+    <>
+    <h1 className="text-4xl font-bold tracking-tight"><span className='text-violet-600'>Deezey</span> marketspace.</h1>
+    </>
+  )
 }
