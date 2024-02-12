@@ -1,5 +1,5 @@
 import HeroPage from "@/components/HeroSection";
-import Catagories from "@/components/catagories";
+import Catagories from "@/components/Catagories";
 
 export default function Home() {
   return (
